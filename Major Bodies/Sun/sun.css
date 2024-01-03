@@ -3,8 +3,10 @@
 }
 
 body{
-    background-image: url(Assets/sun\ html\ wallpaper.jpg);
+    background-image: url(Sun\ Assets/nasa-sun-hd-wallpaper.jpg);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 h1{
@@ -26,6 +28,7 @@ h1{
     height: 150px;
     width: 1000px;
     display: flex;
+    margin: auto;
 }
 
 #back , #more-info{
@@ -37,5 +40,19 @@ h1{
 #title{
     height: 100%;
     width: 700px;
+    text-align: center;
+    margin: auto;
+}
+
+#article-container{
+    height: fit-content;
+    padding: 20px;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+#article-container p {
     text-align: center;
 }
