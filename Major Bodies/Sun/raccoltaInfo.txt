@@ -20,11 +20,23 @@ It is thought that almost all stars form by this process.
 For every second that pass our sun, in its core, fuses about 600 million tons of hydrogen into helium and converts four million tons of matter into energy [link].
 The produced energy, which is the source of a star's light and heat, doesn't leave the core right away, but it takes between 10 and 170 thousand years to do so.
 
+Far in the future, when hydrogen fusion in the Sun's core diminishes to the point where the Sun is no longer in hydrostatic equilibrium [link], its core will undergo a marked increase in density and temperature which will push its outer layers to expand, eventually transforming the Sun into a red giant [link]. 
+This process will make the Sun large enough to render Earth uninhabitable approximately five billion years from the present. 
+After this, the Sun will shed its outer layers and become a dense type of cooling star (a white dwarf) [link], and no longer produce energy by fusion, but still glow and give off heat from its previous fusion for trillions of years. 
+After that it might become a super dense hypothetical black dwarf [link], giving off no more energy. 
+
+
 
 -From: https://en.wikipedia.org/wiki/Sun
 
 Composition and Structure:
 
+
+
+Life phases:
+
+
+Sun in History and Culture:
 
 
 Advanced info:
@@ -51,15 +63,28 @@ This mechanism is fundamental for structure formation in the universe and can le
 -How does the sun convert matter into energy?
 
 
-Life phases:
+
+-Sun's hydrostatic equilibrium
 
 
-Sun in History and Culture:
 
+-What is a red giant?
+
+
+
+-What are white and black dwarf stars?
 
 More Facts:
 
+-Where does the Sun's name cames from?
 
+The English word sun developed from Old English sunne. 
+Cognates appear in other Germanic languages, including West Frisian sinne, Dutch zon, Low German Sünn, Standard German Sonne, Bavarian Sunna, Old Norse sunna, and Gothic sunnō. 
+All these words stem from Proto-Germanic *sunnōn.
+This is ultimately related to the word for sun in other branches of the Indo-European language family, though in most cases a nominative stem with an l is found, rather than the genitive stem in n, as for example in Latin sōl, ancient Greek ἥλιος (hēlios), Welsh haul and Czech slunce, as well as (with *l > r) Sanskrit स्वर (svár) and Persian خور (xvar). 
+Indeed, the l-stem survived in Proto-Germanic as well, as *sōwelan, which gave rise to Gothic sauil (alongside sunnō) and Old Norse prosaic sól (alongside poetic sunna), and through it the words for sun in the modern Scandinavian languages: Swedish and Danish sol, Icelandic sól, etc.
+
+-From: https://en.wikipedia.org/wiki/Sun#Etymology
 
 Strong Evidence For Coronal Heating Theory Presented at 2015 TESS Meeting : 
 
