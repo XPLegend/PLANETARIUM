@@ -9,3 +9,9 @@ function chgImgBackBtnBACK() {
 
     document.getElementById("backBtnImg").src = "../../Other/General Assets/Back-Icon.png";
 }
+
+
+//linkers
+function backBtnLinker() {
+    window.location.href = "../../main.html";
+}

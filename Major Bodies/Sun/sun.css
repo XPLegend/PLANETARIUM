@@ -7,6 +7,7 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: auto;
+    background-position: center;
     margin: 0;
 }
 
@@ -26,6 +27,7 @@ h3{
 
 h4{
     font-size: 20px;
+    margin: 0px;
 }
 
 p{
@@ -49,9 +51,19 @@ button{
     background-color: inherit;
 }
 
+a{
+    color: blue;
+    text-decoration: dashed;
+}
+
+a:hover{
+    color: rgb(138, 22, 138);
+    text-decoration: solid;
+}
+
 #main-container{
     height: fit-content;
-    width: 1100px;
+    width: 70%;
     border: 2px solid black;
     border-radius: 40px;
     background-color: rgba(240, 248, 255, 0.8);
@@ -62,7 +74,7 @@ button{
 
 #title-container{
     height: 100px;
-    width: 1000px;
+    width: 90%;
     display: flex;
     margin: auto;
 }
@@ -74,8 +86,8 @@ button{
 }
 
 #backBtn, #infoBtn{
-    width: 100%;
-    height: 100%;
+    width: 100px;
+    height: 100px;
     border: none;
 }
 
@@ -86,10 +98,18 @@ button{
     margin: auto;
 }
 
-.textbox {
+#main-textbox {
     margin: auto;
     width: 90%;
     padding: 20px;
     text-align: left;
     word-wrap: break-word;
-  }
+}
+
+.textbox {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+    text-align: left;
+    word-wrap: break-word;
+}

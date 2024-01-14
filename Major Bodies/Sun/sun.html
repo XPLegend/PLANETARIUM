@@ -15,7 +15,7 @@
         <div id="title-container">
 
             <div id="back">
-                <button type="button" id="backBtn">
+                <button type="button" id="backBtn" onclick="backBtnLinker()">
                     <img src="../../Other/General Assets/Back-Icon.png" id="backBtnImg" onmouseover="chgImgBackBtn()" onmouseout="chgImgBackBtnBACK()"></button> 
             </div>
 
@@ -29,10 +29,10 @@
 
         </div>
 
-    <div class="textbox">
+    <div id="main-textbox">
         <h3>General Informations</h3>
         <p>
-            The Sun, commonly referred to as a yellow dwarf [link], is a dynamic celestial body located at the heart of our Solar System. <br>
+            The Sun, commonly referred to as a <a href="#yellow-dwarf">yellow dwarf</a>, is a dynamic celestial body located at the heart of our Solar System. <br>
             It is composed of hot plasma inflated and heated by nuclear fusion reactions [link] at its core and radiates part of the energy released in the surrounding space in the form of light and heat. <br>
             This light plays a crucial role in providing the energy necessary for sustaining life on Earth.  <br>
         </p>
@@ -76,15 +76,18 @@
 
         </p>
 
-        <h3>Advanced Informations</h3>
-        <p>
+        <h3 style="margin-bottom: 0px;">Advanced Informations</h3>
+        <div class="textbox">
+            <h4>What is a yellow dwarf?</h4>
+            <p>
 
-        </p>
+            </p>
 
-        <h3>More Facts</h3>
-        <ul>
-            <li>
-                <h4>Where does the Sun's name cames from?</h4>
+        </div>
+
+        <h3 style="margin-bottom: 0px;">More Facts</h3>
+        <div class="textbox">
+            <h4 id="yellow-dwarf">Where does the Sun's name cames from?</h4>
                 <p>
                 The term "sun" in English originated from the Old English word "sunne." 
                 Similar terms are found in various Germanic languages, such as West Frisian "sinne," Dutch "zon," Low German "Sünn," Standard German "Sonne," Bavarian "Sunna," Old Norse "sunna," and Gothic "sunnō," all tracing their roots back to Proto-Germanic *sunnōn. 
@@ -92,11 +95,8 @@
                 Examples include Latin "sōl," ancient Greek "ἥλιος" (hēlios), Welsh "haul," Czech "slunce," Sanskrit "स्वर" (svár), and Persian "خور" (xvar). 
                 The Proto-Germanic l-stem also persisted as *sōwelan, giving rise to Gothic "sauil" (in addition to "sunnō") and Old Norse "sól" (in addition to the poetic "sunna"), influencing the terms for "sun" in modern Scandinavian languages like Swedish, Danish, and Icelandic.
                 </p>
-            </li>
-        </ul>
-        <p>
+        </div>
 
-        </p>
     </div>
     </div>
 
